@@ -10,10 +10,10 @@
 
 [resource]
 script = ExtResource( 1 )
-my_id = "form_finger_1"
+my_id = "foam_finger_1"
 unlocked_by_default = true
 icon = ExtResource( 6 )
-name = "Form Finger"
+name = "Foam Finger"
 tier = 0
 value = 60
 effects = [ ExtResource( 4 ) ]
