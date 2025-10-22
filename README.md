@@ -17,7 +17,7 @@ Because who doesn’t want to fight aliens with a foam finger and grandma’s pu
 | **Foam Finger** | Unarmed, Support<br>🟢 +50 Luck | ![Foam Finger](https://github.com/liamstewart23/brotato-PartyPack/blob/main/screenshots/weapons/foam_finger.png?raw=true) |
 
 ## Plans
-Adds things that speak to me, open to requests :) 
+Adding things that make me laugh, open to requests :) 
 
 ## Installation:
 TODO
