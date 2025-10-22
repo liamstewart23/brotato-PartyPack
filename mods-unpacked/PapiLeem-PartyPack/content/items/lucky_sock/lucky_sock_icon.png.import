@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lucky_sock_icon.png-69b40e3d17727843b6dfe1fd12f5a2f4.stex"
+path="res://.import/lucky_sock_icon.png-e3b32a0d075b3bc4ed001baea508b144.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods-unpacked/PapiLeem-PartyPack/extensions/items/lucky_sock/lucky_sock_icon.png"
-dest_files=[ "res://.import/lucky_sock_icon.png-69b40e3d17727843b6dfe1fd12f5a2f4.stex" ]
+source_file="res://mods-unpacked/PapiLeem-PartyPack/content/items/lucky_sock/lucky_sock_icon.png"
+dest_files=[ "res://.import/lucky_sock_icon.png-e3b32a0d075b3bc4ed001baea508b144.stex" ]
 
 [params]
 

@@ -11,8 +11,8 @@ var weapon_files = []
 
 func _init():
 	mod_dir_path = ModLoaderMod.get_unpacked_dir().plus_file(MOD_DIR)
-	item_extensions_dir_path = mod_dir_path.plus_file("extensions/items")
-	#weapon_extensions_dir_path = mod_dir_path.plus_file("extensions/weapons")
+	item_extensions_dir_path = mod_dir_path.plus_file("content/items")
+	weapon_extensions_dir_path = mod_dir_path.plus_file("content/weapons")
 
 func _ready() -> void:
 	var ContentLoader = get_node("/root/ModLoader/Darkly77-ContentLoader/ContentLoader")
@@ -20,12 +20,12 @@ func _ready() -> void:
 	# Load items
 	item_files = get_files_in_subdirs(item_extensions_dir_path)
 	for item_path in item_files:
-		ContentLoader.load_data(item_path, "PapiLeem")
+		ContentLoader.load_data(item_path, MOD_DIR)
 	
 	# Load weapons
-	#weapon_files = get_files_in_subdirs(weapon_extensions_dir_path)
-	#for weapon_path in weapon_files:
-#		ContentLoader.load_data(weapon_path, MOD_DIR)
+	weapon_files = get_files_in_subdirs(weapon_extensions_dir_path)
+	for weapon_path in weapon_files:
+		ContentLoader.load_data(weapon_path, MOD_DIR)
 
 
 # Helper function to get the .tres file from each subdirectory
