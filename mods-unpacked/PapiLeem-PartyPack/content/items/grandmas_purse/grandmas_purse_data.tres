@@ -1,0 +1,24 @@
+[gd_resource type="Resource" load_steps=6 format=2]
+
+[ext_resource path="res://items/global/item_data.gd" type="Script" id=1]
+[ext_resource path="res://mods-unpacked/PapiLeem-PartyPack/content/items/grandmas_purse/grandmas_purse_effect_1.tres" type="Resource" id=2]
+[ext_resource path="res://mods-unpacked/PapiLeem-PartyPack/content/items/grandmas_purse/grandmas_purse_effect_2.tres" type="Resource" id=3]
+[ext_resource path="res://mods-unpacked/PapiLeem-PartyPack/content/items/grandmas_purse/grandmas_purse_effect_3.tres" type="Resource" id=4]
+[ext_resource path="res://mods-unpacked/PapiLeem-PartyPack/content/items/grandmas_purse/grandmas_purse_icon.png" type="Texture" id=5]
+
+[resource]
+script = ExtResource( 1 )
+my_id = "item_grandmas_purse"
+unlocked_by_default = true
+icon = ExtResource( 5 )
+name = "Grandma's Purse"
+tier = 1
+value = 55
+effects = [ ExtResource( 2 ), ExtResource( 3 ), ExtResource( 4 ) ]
+tracking_text = "MATERIALS_GAINED"
+is_lockable = true
+is_cursed = false
+curse_factor = 0.0
+max_nb = 1
+item_appearances = [  ]
+tags = [ "stat_luck", "pickup", "economy" ]
