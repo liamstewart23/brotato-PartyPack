@@ -1,3 +1,5 @@
+<img width="512" height="512" alt="ppp_logo" src="https://github.com/user-attachments/assets/91cbd5ad-6470-4065-8be1-50da26cde713" />
+
 # Brotato: Papi's Party Pack Mod
 This chaotic content pack adds dozens of new items and weapons to [Brotato](https://store.steampowered.com/app/1942280/Brotato/) inspired by everyday objects and meme energy. From grandma’s purse to foam fingers, the Papi Party Pack brings humor, variety, and fun to your next run!
 
