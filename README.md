@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="393" height="393" alt="Gemini_Generated_Image_rp8xm3rp8xm3rp8x-removebg-preview(1)" src="https://github.com/user-attachments/assets/338f9417-3e87-4e4f-b2da-dd667e8e1293" />
+  <img width="500" height="500" alt="Gemini_Generated_Image_jugnqajugnqajugn(1)(1)" src="https://github.com/user-attachments/assets/9a0a233e-fee8-4d6d-9e25-51dc04baac46" />
 </p>
 
 # Brotato: Papi's Party Pack Mod
