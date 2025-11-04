@@ -10,6 +10,7 @@ Because who doesn’t want to fight aliens with a foam finger and grandma’s pu
 ### Items
 | Name | Stats | Image |
 |------|--------|--------|
+| **Asparagus Bunch** | 🟢 +5 HP Regeneration<br>🟢 +5% Speed<br>🟢 +5% Attack Speed | ![Asparagus Bunch](https://github.com/liamstewart23/brotato-PartyPack/blob/main/screenshots/items/asparagus_bunch.png?raw=true) |
 | **Celery Tea Pitcher** | 🟢 +10% XP Gain at the end of a wave<br>🟢 +250% XP Gain during the next wave<br>🔴 +100% Enemy health during the next wave <br>🔴 +100% Enemy damage during the next wave | ![Grandma’s Purse](https://github.com/liamstewart23/brotato-PartyPack/blob/main/screenshots/items/celery_tea_pitcher.png?raw=true) |
 | **Grandma’s Purse** | Unique<br>🟢 +10% chance to double the value of picked-up materials<br>🟢 +2 Luck<br>🔴 −25% Attack Speed | ![Grandma’s Purse](https://github.com/liamstewart23/brotato-PartyPack/blob/main/screenshots/items/grandmas_purse.png?raw=true) |
 | **Juice Box** | 🟢 +3 Max HP<br>🟢 +5 Attack Speed<br>🔴 −10 Range | ![Juice Box](https://github.com/liamstewart23/brotato-PartyPack/blob/main/screenshots/items/juice_box.png?raw=true) |
